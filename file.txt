@@ -1,0 +1,14 @@
+    "Hello",
+    "Hello!",
+    "Hi",
+    "Hi!",
+    "Tell me about Samila's mother",
+    "Her name is Maria. She is a self-employed worker. She has 3 children. Samila is the youngest. She works together with her husband. When the children arrived, she took as long as she needed from work. She had a support network, people who contributed to raising her children.",
+    "Want to hear a story?",
+    "Yes",
+    "Her name is Maria. She is a self-employed worker. She has 3 children. Samila is the youngest. She works together with her husband. When the children arrived, she took as long as she needed from work. She had a support network, people who contributed to raising her children.",
+    "How nice!",
+    "She is Samila's mother.",
+    "Goodbye",
+    "Goodbye!"
+    
