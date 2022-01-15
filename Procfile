@@ -1,1 +1,1 @@
-heroku ps:scale web=1
+echo "web: gunicorn app:app"
