@@ -3,20 +3,14 @@
 <p align="center"><img src="./assets/chatbot.png" width="90%" height="90%"/></p>
 
 <h2 align="center">Dependências</h2>
-Flask
-<br>
-ChatterBot
-<br>
-Spacy
-<br>
-Numpy
+	- Flask
+	- ChatterBot
+	- Spacy
+	- Numpy
 
 <h3 align="center">Roteiro de conversação</h3>
 <br>
-Hello
-<br>
-Tell me about samila's mother
-<br>
-How nice
-<br>
-Goodbye
+	- Hello
+	- Tell me about samila's mother
+	- How nice
+	- Goodbye
